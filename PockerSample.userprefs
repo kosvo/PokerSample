@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0E081AC0-969F-4724-A9FD-B76C2E8A55E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsSample/Cards.cs">
+    <Files>
+      <File FileName="FormsSample/Cards.cs" Line="44" Column="3" />
+      <File FileName="FormsSample/App.cs" Line="68" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../stimline-mobile/Stimline.Core/Services/Implementation/HttpClientService.cs" line="186" offsetX="292" offsetY="2775" expression="ex.StackTrace" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.PockerSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.36F84330-CA87-4EF2-B5B7-3277C174F2D3" />
+  <MonoDevelop.Ide.ItemProperties.PockerSample.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>

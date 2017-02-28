@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0E081AC0-969F-4724-A9FD-B76C2E8A55E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsSample/App.cs">
+    <Files>
+      <File FileName="FormsSample/Cards.cs" Line="11" Column="22" />
+      <File FileName="FormsSample/App.cs" Line="15" Column="2" />
+      <File FileName="FormsSample.Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="FormsSample.iOS/AppDelegate.cs" Line="27" Column="36" />
+      <File FileName="FormsSample.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="FormsSample.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.FormsSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.36F84330-CA87-4EF2-B5B7-3277C174F2D3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../stimline-mobile/Stimline.Core/Services/Implementation/HttpClientService.cs" line="186" offsetX="292" offsetY="2775" expression="ex.StackTrace" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.FormsSample.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
